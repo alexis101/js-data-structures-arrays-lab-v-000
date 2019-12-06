@@ -18,6 +18,6 @@ function destructivelyRemoveFirstDriver(){
 }
 
 function appendDriver(name){
-  newDrviers = [...drivers, "Jon"]
+  const newDrviers = [...drivers, "Jon"]
 
 }
